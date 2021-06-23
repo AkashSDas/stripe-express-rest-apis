@@ -1,6 +1,6 @@
 import { firestore } from "firebase-admin";
 import Stripe from "stripe";
-import { stripe } from "./";
+import { stripe } from ".";
 import { getOrCreateCustomer } from "./customers";
 import { db } from "./firebase";
 

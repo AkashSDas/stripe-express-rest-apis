@@ -4,7 +4,7 @@
  */
 
 import Stripe from "stripe";
-import { stripe } from "./";
+import { stripe } from ".";
 import { db } from "./firebase";
 
 /**

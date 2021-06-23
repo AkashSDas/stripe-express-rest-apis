@@ -33,7 +33,7 @@
 import { Request, Response } from "express";
 import { firestore } from "firebase-admin";
 import Stripe from "stripe";
-import { stripe } from "./";
+import { stripe } from ".";
 import { db } from "./firebase";
 
 /**

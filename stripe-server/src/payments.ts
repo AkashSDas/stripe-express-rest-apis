@@ -30,7 +30,7 @@
  * Stripe handles it
  */
 
-import { stripe } from "./";
+import { stripe } from ".";
 
 /**
  * Create a Payment Intent with a specific amount
