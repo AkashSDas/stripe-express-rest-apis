@@ -1,4 +1,4 @@
-# stripe_express_api
+# stripe-express-rest-apis
 
 - Backend is built with Node.js & Express (REST API & Typescript)
 - Stripe Checkout sessions
